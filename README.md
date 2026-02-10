@@ -7,10 +7,8 @@ i like cheese and gaming
 </div>
 
 <div align="center">
-<h2>skibidi stats</h2>
+<h2>more info</h2>
 
-![devstatsrealballs](https://github-readme-stats.vercel.app/api?username=NotDevX&show_icons=true&theme=synthwave#gh-dark-mode-only)
-
-![devstatsrealballs](https://github-readme-stats.vercel.app/api/top-langs?username=NotDevX&show_icons=true&theme=synthwave&layout=compact)
+i hate alot of things, except people i know unless theyve done me wrong
 
 </div>
